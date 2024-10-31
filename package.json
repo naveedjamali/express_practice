@@ -1,0 +1,18 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "This a blog web app in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naveed",
+  "license": "ISC",
+  "dependencies": {
+    "@types/nodemon": "^1.19.6",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
